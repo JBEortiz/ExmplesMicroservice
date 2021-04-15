@@ -1,0 +1,5 @@
+package com.example.formacion.item.entity;
+
+public class Item {
+
+}

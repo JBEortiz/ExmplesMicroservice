@@ -1,0 +1,5 @@
+package com.example.formacion.productos.controller;
+
+public class ProductoController {
+
+}
