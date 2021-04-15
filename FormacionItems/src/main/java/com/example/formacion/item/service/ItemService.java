@@ -8,8 +8,9 @@ public interface ItemService {
 	
 	public List<Item> findAll();
 	
-	public Item findByIdl(Long id,Integer cantidad);
+	public Item findByIdl(Long id);
 	
 	public Item getTotal(Long id, Integer Cantidad);
+
 
 }

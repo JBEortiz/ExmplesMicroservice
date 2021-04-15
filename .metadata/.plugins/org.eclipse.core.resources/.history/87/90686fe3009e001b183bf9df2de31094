@@ -1,0 +1,27 @@
+package com.example.formacion.item.service;
+
+import java.util.List;
+
+import com.example.formacion.item.entity.Item;
+
+public class ItemServiceFeign implements ItemService {
+
+	@Override
+	public List<Item> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item findByIdl(Long id, Integer cantidad) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item getTotal(Long id, Integer Cantidad) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
